@@ -773,7 +773,7 @@ html {
 }
 
 body {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Roboto', sans-serif;
   color: #515151;
   background-color: #fbfbfb;
   margin: 0;
@@ -1482,5 +1482,5 @@ a.newer-posts:hover {
 }
 
 .wrap-content img {
-  text-align: center;
+    width: 100%;
 }
