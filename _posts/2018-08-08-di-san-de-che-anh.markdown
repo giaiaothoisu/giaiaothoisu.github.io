@@ -11,7 +11,7 @@ tags: [Lịch Sử] # add tag
 
 Cũng như bao đế chế khác, Đế Chế Anh vẫn sử dụng bạo lực và binh sĩ để xâm chiếm. Nhưng khác với những nhà cai trị khác, Đế Chế Anh thay vì sử dụng những phương pháp cai trị bóc lột và man rợ, họ lại tận dụng tài nguyên và con người để làm giàu cho bản thân và cho người bản xứ. 
 
-###Sau đây là vài điều khiến Đế Chế Anh khác biệt:
+### Sau đây là vài điều khiến Đế Chế Anh khác biệt:
 
 * 1) Chính phủ pháp quyền - Cai trị thông qua cơ quan lập pháp và pháp lý thay vì bạo lực.
 * 2) Chủ nghĩa tư bản và thị trường - Khác với những đế quốc khác như Pháp và Tây Ban Nha, Anh Quốc gần như không sử dụng nô lệ. Thay vì khai thác tài nguyên thì họ lại hợp tác buôn bán với các doanh nghiệp và người dân bản xứ. Thay vì bóc lột sức lao động thì họ lại tận dụng và khai thác chất xám. Đó là tại sao các quốc gia bị Anh Quốc cai trị ít khi nào nổi loạn.
@@ -34,4 +34,4 @@ Thật quá khó để hình dung ra một thế giới không có Đế Chế A
 
 Nếu bạn đang sống trong tự do, hãy cảm ơn Đế Chế Anh. cảm ơn The Britsh Empire.
 
-###Ku Búa @ Cafe Ku Búa
+### Ku Búa @ Cafe Ku Búa

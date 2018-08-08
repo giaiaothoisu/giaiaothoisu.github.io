@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Vì Sao Bạn Nên Có Quỹ Đen
-date: 2018-08-08 00:00:00 +0300
+date: 2018-08-08 00:00:00 +0700
 description: Quỹ đen là gì, nó là tên gọi cho một cái quỹ hoặc tài khoản tiền bí mật mà chỉ một mình bạn biết, không ai khác. Kể cả người chồng hay người bạn đời cũng không biết. Để làm gì hả? Để sau này lỡ có chuyện gì thì mình còn bảo vệ bản thân. Tôi sẽ đưa ra những lý do vì sao. # Add post description (optional)
 img: quy-den.jpg # Add image post (optional)
 tags: [Tài Chính] # add tag
@@ -28,4 +28,4 @@ Các chị em phụ nữ à, bây giờ có thể bạn chưa thấy sự khốn
 
 Mấy chị em phụ nữ nhớ cảm ơn Ku Búa nhé, Búa yêu mấy em gái gần chết, chứ mấy thằng khác thì còn lâu. Nhớ nha, đi mở liền đi.
 
-Ku Búa @ Cafe Ku Búa
+### Ku Búa @ Cafe Ku Búa

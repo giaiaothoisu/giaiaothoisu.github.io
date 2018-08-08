@@ -29,4 +29,4 @@ Họ thừa biết rằng bí quyết để thành công không nằm trong vậ
 
 Đó là bí quyết làm giàu của Phương Tây. Từ một châu lục chìm đắm trong tăm tối, bằng sự cạnh tranh và lý tưởng, họ đã vương minh ra để thống trị thế giới. Quá trình hiện đại hóa thế giới là quá trình phát triển của của họ. Phương Tây khác biệt với thế giới vì họ biết khai thác, biết khám phá, biết tận dụng tài nguyên và chất xám, biết nỗ lực và phấn đấu, và biết bảo vệ những thành tựu và cá nhân làm ra thành tựu đó. Đó là tại sao Phương Tây vượt bậc và trở nên vĩ đại so với tất cả. Liệu tinh thần này còn tồn tại trong tương lai không?
 
-Ku Búa @ Cafe Ku Búa
+### Ku Búa @ Cafe Ku Búa
