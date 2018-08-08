@@ -7,8 +7,6 @@ img: 8-tu-huyet-trung-cong.jpg # Add image post (optional)
 tags: [Chính Trị] # add tag
 ---
 
-![Tám Tử Huyệt Mà Hoa Kỳ Có Thể Dùng Để Đối Phó Và Răn Đe Tàu Cộng]({{site.baseurl}}/assets/img/8-tu-huyet-trung-cong.jpg)
-
 ### 1. Đài Loan:
 
 Xứ này có vị trí địa dư cực kì chiến lược, nằm trấn ngay đường ra biển của Tàu Cộng với chuỗi/quần đảo Ryukyu của Nhật Bản. Một Đài Loan tự do, dân chủ và có khả năng quân sự đủ để tự vệ hay có khả năng bảo vệ lãnh thổ nhờ sự trợ giúp đồng minh sẽ là mối đe dọa sinh tử cho tham vọng, khả năng tuyên truyền của Tàu Cộng cũng như là một thách thức lớn cho quyền lực của Tập Cận Bình.
