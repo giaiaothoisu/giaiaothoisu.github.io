@@ -11,6 +11,8 @@ Theo tôi, mỗi người nên có một cái quỹ đen để bảo vệ bản 
 
 Quỹ đen là gì, nó là tên gọi cho một cái quỹ hoặc tài khoản tiền bí mật mà chỉ một mình bạn biết, không ai khác. Kể cả người chồng hay người bạn đời cũng không biết. Để làm gì hả? Để sau này lỡ có chuyện gì thì mình còn bảo vệ bản thân. Tôi sẽ đưa ra những lý do vì sao.
 
+![Vì Sao Bạn Nên Có Quỹ Đen]({{site.baseurl}}/assets/img/quy-den.jpg)
+
 ### QUỸ ĐEN – VÌ SAO BẠN NÊN CÓ
 
 * 1) Đàn ông Việt là một lũ ba xạo. Mấy ông chồng thì ôi thôi, bên ngoài thì hiền lành còn sau lưng vợ thì hám gái gần chết. Mấy thằng giảng dạy đạo đức thường sống mất dạy nhất. Cho nên các cô vợ đừng bao giờ tin ai.

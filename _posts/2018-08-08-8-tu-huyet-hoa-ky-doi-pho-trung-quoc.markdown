@@ -2,30 +2,32 @@
 layout: post
 title: Tám Tử Huyệt Mà Hoa Kỳ Có Thể Dùng Để Đối Phó Và Răn Đe Tàu Cộng
 date: 2018-08-08 00:00:00 +0700
-description: Quỹ đen là gì, nó là tên gọi cho một cái quỹ hoặc tài khoản tiền bí mật mà chỉ một mình bạn biết, không ai khác. Kể cả người chồng hay người bạn đời cũng không biết. Để làm gì hả? Để sau này lỡ có chuyện gì thì mình còn bảo vệ bản thân. Tôi sẽ đưa ra những lý do vì sao. # Add post description (optional)
+description: Người ta lo ngại trục Nga-Tàu chống Mỹ, nhưng tôi cho rằng, xác suất rất thấp để có trục Nga-Tàu TUYỆT ĐỐI chống Mỹ. # Add post description (optional)
 img: 8-tu-huyet-trung-cong.jpg # Add image post (optional)
 tags: [Chính Trị] # add tag
 ---
 
-1. Đài Loan:
+![Tám Tử Huyệt Mà Hoa Kỳ Có Thể Dùng Để Đối Phó Và Răn Đe Tàu Cộng]({{site.baseurl}}/assets/img/8-tu-huyet-trung-cong.jpg)
+
+### 1. Đài Loan:
 
 Xứ này có vị trí địa dư cực kì chiến lược, nằm trấn ngay đường ra biển của Tàu Cộng với chuỗi/quần đảo Ryukyu của Nhật Bản. Một Đài Loan tự do, dân chủ và có khả năng quân sự đủ để tự vệ hay có khả năng bảo vệ lãnh thổ nhờ sự trợ giúp đồng minh sẽ là mối đe dọa sinh tử cho tham vọng, khả năng tuyên truyền của Tàu Cộng cũng như là một thách thức lớn cho quyền lực của Tập Cận Bình.
 
 Hãy tưởng tượng người dân bị nhồi sọ của Tàu sẽ thế nào khi thấy đảng nói láo về vấn đề Đài Loan, dù miệng cứng rắn nhưng lại bất lực? Hãy tưởng tượng Tập Cận Bình sẽ thế nào nếu thiếu quyết đoán hay nhượng bộ trong vấn đề Đài Loan, khi tình cảnh đó có thể góp phần đẩy đảng cộng sản Tàu suy yếu và tan rã!?
 
-2. Tân Cương:
+### 2. Tân Cương:
 
 Đây là vùng đất mà hơn phân nửa là thuộc sắc dân Thổ, và đa số theo Hồi/Muhammed giáo dòng Sunni. Độ cực đoan và điên cuồng của họ thì khỏi nói. Dĩ nhiên, thế giới về lâu về dài, vẫn phải giải quyết chuyện làm sao chuyển đổi được ý thức hệ toàn trị dưới vỏ bọc tôn giáo này. Nhưng ít nhất trong hiện tại, có thể sử dụng họ hay dùng nơi ấy làm đòn bẩy để làm suy yếu và "điểm huyệt" Tàu Cộng, làm ly gián Tàu Cộng với khối Hồi giáo....
 
 Chúng ta đừng quên trong quá khứ, Hoa Kỳ đã từng ủng hộ những phần tử cực đoan để chống lại Liên Xô (vào thời điểm đó thì cần dùng những kẻ đó) thì nay hoàn toàn có thể "chống đó mà vẫn dùng đó" để gây sức ép với Tàu Cộng. Dĩ nhiên, các biện pháp hỗ trợ quân sự hay tài chính...chỉ là những giải pháp sau cùng. Nhưng những giải pháp ngoại giao căn bản nhưng nêu bật sự đàn áp khốc liệt của Tàu Cộng ở Tân Cương cho cộng đồng quốc tế biết rộng rãi là điều vô cùng cần thiết.
 
-3. Tây Tạng:
+### 3. Tây Tạng:
 
 Tương tự như Tân Cương, vẫn đàn áp, diệt chủng/đồng hóa một cách khốc liệt nhưng sự phảng kháng của những người Tây Tạng khá yếu ớt và đầy tính ôn hòa-phi bạo lực (ít nhất có hơn trăm vụ tự thiêu được xác nhận).
 
 Giải pháp vẫn tương tự như vấn đề Tân Cường, cần gây sức ép khi cho cộng đồng quốc tế biết những gì đang xảy ra ở Tây Tạng. Gây sức ép về nhân quyền, về những quyền căn bản nhất của những người dân ở nơi đây. Đây không chỉ là vấn đề chiến lược mà còn là đạo lý.
 
-4. Những gì xảy ra nội tại xã hội Tàu:
+### 4. Những gì xảy ra nội tại xã hội Tàu:
 
 Nói về sự dã man và cặn bã, có lẽ Tàu Cộng là một trong những xứ quán quân, từ buôn người, ma túy...cho đến buôn bán nội tạng của những người lương thiện. Đó chẳng phải do những tổ chức xã hội đen mà là xã hội "đỏ" (đảng cộng sản Tàu) cầm đầu những băng xã hội đen hay các tổ chức thực hiện hàng loạt các tội ác đó.
 
@@ -33,13 +35,13 @@ Bọn doanh nhân lý tài ở Tây Phương, vì quyền lợi cục bộ của
 
 Đã đến lúc, Hoa Kỳ cần lên tiếng những hiện trạng tồi tệ đang xảy ra ở Tàu Cộng, một cách có hệ thống, về đủ mọi mặt từ nhân quyền, đạo đức xã hội....cho đến tình trạng ô nhiễm môi sinh kinh khủng. Bộ máy tuyên truyền của Tàu Cộng dù đang tỏ ra khá hiệu quả nhưng người Tàu không phải ngu, chỉ cần phương Tây hay Hoa Kỳ cho những con người khốn cùng ấy cơ hội để thấy sự thật thì họ cũng sớm thấy ra nhiều điều mà thôi. Và sự thay đổi cũng sẽ đến một cách vô cùng tự nhiên khi Tàu Cộng sụp đổ kinh tế vì sự điên cuồng của chế độ cai trị này.
 
-5. Nam Á-Ấn Độ.
+### 5. Nam Á-Ấn Độ.
 
 Tàu Cộng là một quốc gia gần như chẳng có đồng minh mà xung quanh chỉ toàn là đối thủ. Việc Hoa Kỳ bắt tay hợp tác với các quốc gia Nam Á, đặc biệt là Ấn Độ sẽ là mối đe dọa chiến lược hay răn đe mạnh mẽ đến Tàu Cộng.
 
 Và sự hợp tác với Ấn Độ cực kì dễ thành công vì xứ này cũng đang mâu thuẫn hàng loạt vấn đề chẳng thể thỏa hiệp với Tàu Cộng. Mâu thuẫn này sẽ ngày càng tăng theo thời gian do tham vọng và khủng hoảng bên trong của nước Tàu. Ví dụ, xứ này thiếu nước trầm trọng, nên "hút nước" từ cao nguyên Thanh Tạng, dẫn đến tình trạng thiếu/ảnh hưởng đến nguồn cung cấp nước ở Ấn Độ.....Còn rất nhiều ví dụ về những mâu thuẫn cốt lõi giữa Tàu và Ấn. Hoa Kỳ hoàn toàn có thể quan sát và siết chặt quan hệ với Ấn Độ để răn đe Tàu Cộng.
 
-6. Đông Bắc Á-Nhật Bản.
+### 6. Đông Bắc Á-Nhật Bản.
 
 Tăng cường hợp tác kinh tế/quân sự với Nhật Bản, Nam Hàn là điều cần thiết. Nó không chỉ cho phép Hoa Kỳ có những cam kết quan trọng với các đồng minh mà còn là sự răn đe lớn lao cho Tàu Cộng.
 
@@ -49,7 +51,7 @@ Chỉ cần 2 xứ đồng minh này vững mạnh thì đó sẽ thách thức 
 
 Xa hơn, chuyện Tàu Cộng dùng để mặc cả khi sử dụng lá bài Bắc Hàn. Hoa Kỳ hãy vô hiệu hóa nó trong một thời hạn nhất định cho đến khi...sự bùng nổ/loạn to xảy ra ở Tàu Cộng (hiện tại chính quyền Donald Trump đang làm điều này rất tốt!).
 
-7. Tây Nam Thái Bình Dương-Úc và các đồng minh ở Đông Nam Á.
+### 7. Tây Nam Thái Bình Dương-Úc và các đồng minh ở Đông Nam Á.
 
 Việc tăng cường hợp tác quân sự/kinh tế với các đồng minh như Tân Tây Lan (New Zealand) và Úc (Australia) hay các quốc gia khác như Thái Lan, Mã Lai (Malaysia), Indonesia, Singapore và Philippines là điều cần thiết. Đây là các xứ đã có quan hệ mật thiết về kinh tế/quân sự từ lâu với Hoa Kỳ, đặc biệt là 2 quốc gia đầu tiên.
 
@@ -57,7 +59,7 @@ Tàu Cộng dù hiện tại có vẻ có "thế" lớn nhưng thực tế lực
 
 Hơn nữa, việc thắt chặt quan hệ với các xứ trên giúp Hoa Kỳ tiếp tục làm bá chủ Thái Bình-Ấn Độ Dương, giúp Hoa Kỳ có thể cắt đứt bất cứ lúc nào con đường nhập cảng thương phẩm (nguyên/nhiên liệu) cho nền kinh tế Tàu Cộng và hoàn toàn khiến nó sụp đổ "ngay lập tức". Hiệp định TPP có thể là một biện pháp nên được tính đến như một cách thực hiện chiến lược nắn gân Tàu Cộng hiệu quả, với điều kiện.....hãy đạp thằng con hoang Việt Cộng của Tàu Cộng ra ngoài nếu xét đến quyền lợi lâu dài của dân tộc Việt Nam.
 
-8. Răn đe/chặt vòi bạch tuộc của Tàu Cộng trên các xứ khác. Có thể tính đến giải pháp thỏa hiệp trên thế mạnh với Nga.
+### 8. Răn đe/chặt vòi bạch tuộc của Tàu Cộng trên các xứ khác. Có thể tính đến giải pháp thỏa hiệp trên thế mạnh với Nga.
 
 Chúng ta đừng quên trong lịch sử, dù Liên Xô dưới thời Stalin đã có thỏa thuận phân chia Âu Châu với Đức nhưng rốt cuộc Liên Xô lại thành một phần của phe Đồng Minh chống phe trục với Đức-Nhật dẫn đầu. Ngày nay, còn lâu Tàu Cộng với so được với tầm vóc của Đức hay Nhật thời thế chiến thứ 2, nên sẽ có xác suất rất cao là xứ Nga sẽ tiếp tục "phản bội" Tàu Cộng với điều kiện phương Tây hay Hoa Kỳ đưa ra cái giá hợp lý cho chuyện họ chống lại hay ít nhất ngừng hỗ trợ, hợp tác với Tàu Cộng.
 

@@ -11,6 +11,8 @@ tags: [Lịch Sử] # add tag
 
 Cũng như bao đế chế khác, Đế Chế Anh vẫn sử dụng bạo lực và binh sĩ để xâm chiếm. Nhưng khác với những nhà cai trị khác, Đế Chế Anh thay vì sử dụng những phương pháp cai trị bóc lột và man rợ, họ lại tận dụng tài nguyên và con người để làm giàu cho bản thân và cho người bản xứ. 
 
+![Di Sản Của Đế Chế Anh]({{site.baseurl}}/assets/img/di-san-de-che-anh.png)
+
 ### Sau đây là vài điều khiến Đế Chế Anh khác biệt:
 
 * 1) Chính phủ pháp quyền - Cai trị thông qua cơ quan lập pháp và pháp lý thay vì bạo lực.
